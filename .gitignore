@@ -9,6 +9,7 @@
 .nyc_output
 .project
 .settings
+.idea
 TAGS
 coverage
 dist
